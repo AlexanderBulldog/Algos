@@ -1,6 +1,4 @@
-# Creating a README file with the provided content
 
-readme_content = """
 # Data Algorithms Repository
 
 This repository contains various exercises related to algorithms and data structures.
@@ -24,11 +22,3 @@ This repository contains various exercises related to algorithms and data struct
   - Presentation for the project "Euler's Problem of the Bridges of Königsberg".
   - Includes software implementation of certain algorithms required for this task.
   - Discusses the history and some original ideas related to this problem.
-"""
-
-# Saving the content to a README file
-readme_file_path = '/mnt/data/README.md'
-with open(readme_file_path, 'w') as file:
-    file.write(readme_content)
-
-readme_file_path
