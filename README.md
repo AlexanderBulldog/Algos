@@ -1,24 +1,24 @@
+# Репозиторий Алгоритмов Данных
 
-# Data Algorithms Repository
+Этот репозиторий содержит различные задачи, связанные с алгоритмами и структурами данных.
 
-This repository contains various exercises related to algorithms and data structures.
+## Структура Репозитория
 
-## Repository Structure
-
-- **DataAlgosTask**: Solutions to some problems from yandex.contest.
+- **DataAlgosTask**: Решения некоторых задач с сайта yandex.contest.
 - **DataAlgosTask2**:
-  - Implementation of a greedy algorithm and its application in "Meetings" problems.
-  - Algorithm to determine the winner in a nim game.
-  - Solution to the Tower of Hanoi problem.
-  - Monte-Carlo method for approximating the surface of a sphere.
+  - Реализация жадного алгоритма и его применение в задачах "О встречах".
+  - Алгоритм для определения победителя в игре ним.
+  - Решение задачи о ханойских башнях.
+  - Метод Монте-Карло для аппроксимации поверхности шара.
 - **DataAlgosTask3**: 
-  - Implementation of a priority queue class and a heap class.
-  - Algorithm for finding the maximum product of neighboring elements in an array.
-- **DataAlgosTask4**: Solving certain problems and implementing some algorithms with graphs.
+  - Реализация класса очереди с приоритетом и класса "кучи".
+  - Алгоритм для нахождения максимального произведения соседних элементов в массиве.
+- **DataAlgosTask4**: Решение определенных задач и реализация некоторых алгоритмов с графами.
 - **DataAlgosTask5**: 
-  - Creation of a greedy decision tree algorithm.
-  - Implementation of the K-Nearest Neighbors (KNN) algorithm in the context of machine learning.
+  - Создание алгоритма жадного решающего дерева.
+  - Реализация алгоритма K-ближайших соседей (KNN) в контексте машинного обучения.
 - **DataAlgosTaskProject Presentation**: 
-  - Presentation for the project "Euler's Problem of the Bridges of Königsberg".
-  - Includes software implementation of certain algorithms required for this task.
-  - Discusses the history and some original ideas related to this problem.
+  - Презентация проекта "Задача Эйлера о мостах Кёнигсберга".
+  - Включает программную реализацию некоторых алгоритмов, необходимых для этой задачи.
+  - Обсуждение истории и некоторых оригинальных идей, связанных с этой задачей.
+"""
